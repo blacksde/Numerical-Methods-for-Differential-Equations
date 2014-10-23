@@ -2,6 +2,9 @@
 
 This is the project that uses finite element method to solve Laplace equation, diffusion equation and wave equation.
 
+## Task
+Solve elliptic, parabolic and hyperbolic equations(over the same domain) numerically using nite element method (FEM).
+
 ## Report
 For Report in pdf file, click [here](https://github.com/blacksde/Numerical-Methods-for-Differential-Equations/blob/master/finite%20element%20method/finite%20element%20method.pdf).
 
